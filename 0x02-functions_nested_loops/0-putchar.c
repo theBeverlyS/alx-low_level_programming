@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * main - print_putchar
+ * main - print _putchar
  * ia written by Beverly
  * Return: 0 (Success)
  */
