@@ -1,7 +1,7 @@
 #include "main.h"
 /**
  * main - print _putchar
- * ia written by Beverly
+ * is written by Beverly
  * Return: 0 (Success)
  */
 
