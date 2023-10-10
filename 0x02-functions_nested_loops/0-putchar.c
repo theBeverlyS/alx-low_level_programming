@@ -1,8 +1,9 @@
 #include "main.h"
+
 /**
- * main - print _putchar
- * is written by Beverly
- * Return: 0 (Success)
+ * main -Entry point
+ *
+ * Return: Always 0 (Success)
  */
 
 int main(void)
@@ -17,4 +18,4 @@ int main(void)
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-} 
+}
