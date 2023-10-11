@@ -14,4 +14,4 @@ int _islapha(int c)
 	}
 	{
 		return (0);
-	} 
+	}
