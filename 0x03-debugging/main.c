@@ -1,7 +1,16 @@
-carrie@ubuntu:/debugging$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 positive_or_negative.c 0-main.c -o 0-main
-carrie@ubuntu:/debugging$ ./0-main
-0 is zero
-carrie@ubuntu:/debugging$ wc -l 0-main.c
-16 1-main.c
-carrie@ubuntu:/debugging$
+#include "main.h"
 
+/**
+* main - tests function that prints if integer is positive or negative
+* Return: 0
+*/
+
+int main(void)
+{
+        int i;
+
+        i = 98;
+        positive_or_negative(i);
+
+        return (0);
+}
