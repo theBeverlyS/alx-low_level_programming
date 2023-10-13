@@ -3,6 +3,7 @@
 /**
  * _isdigit - check for numbers 0-9
  * @c: char to be checked
+ *
  * Return 0 or 1
  */
 
